@@ -52,3 +52,9 @@ Encoding results visualization
 
 Decoding results visualization  
 ![Decoding duration graph](images/Decoding%20operation%20duration.png)
+
+Additional Resources  
+http://ugorji.net/blog/benchmarking-serialization-in-go  
+https://www.gobeyond.dev/encoding-json/  
+https://www.xspdf.com/resolution/50593728.html  
+https://www.speedscope.app/ (rendering cpuprofile flame graphs)
